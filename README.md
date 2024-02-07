@@ -1,3 +1,1 @@
 # MAYAR-TEST
-from emam
-
